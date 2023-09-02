@@ -12,3 +12,6 @@ You can click the Preview link to take a look at your changes.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lizaibeim/lizaibeim/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lizaibeim/lizaibeim/output/github-contribution-grid-snake.svg">
 </picture>     
+
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lizaibeim&count_private=true)](https://github.com/lizaibeim/github-readme-stats)
